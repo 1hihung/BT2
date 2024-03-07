@@ -1,3 +1,4 @@
 # BT2
-//Tên:Võ Huy Hùng
-//MSSV:106230014
+Tên:Võ Huy Hùng 
+Lớp:23KTMT1
+MSSV:106230014
